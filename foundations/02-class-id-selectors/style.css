@@ -6,3 +6,7 @@
     color:blue;
     font-size: 36px;
 }
+
+.odd-numbered.big-text{
+    font-size: 24px;
+}
